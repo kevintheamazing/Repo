@@ -1,4 +1,23 @@
 html, body {
   height: 100%;
   width: 100%;
+  font-family: monospace;
+  font-style: oblique;
+  font-stretch: ultra-expanded;
+}
+h2 {
+      color:#c09191;
+      font-weight:bolder;
+      font-size: 50px;
+    }
+    p {
+      color:#c09191;
+    }
+    ul{
+      list-style-type:none;
+      color:#c09191;
+    }
+alt {
+  font-size: 50px;
+  color:#c09191
 }
